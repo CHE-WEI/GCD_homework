@@ -1,7 +1,7 @@
 # GCD_homework
 Clean the data and calculate the average of each measurement for each activity and each subject
 
-Generally speaking,  This study is about using the wearing techonolgy devices to measure all the body motion of 6 activitities. 
+>Generally speaking,  This study is about using the wearing techonolgy devices to measure all the body motion of 6 activitities. 
 The 30 participants in this study are assigned into two group, either the training, or the testing group.
 Each participant have performed 36 to 95 times for each activity, and each activity has 561 types of measurements, a.k.a. features.
 Accordinglly, the outcome measurements are also saved in two differnet folders.
