@@ -13,3 +13,6 @@ My strategy to perform this analysis are listed below.
 + PART4. Add the real names of features (a.k.a. measurements). Then , add the real names of activities, and make column names to be easily understand.
 + PART5. Make a simple descriptive statistic, the average result of each measurement for each activity and each subject. This can be done by the dplyr Verbs, group_by() and summarize().
 + PART6. Export the final summarized result.
+
+For more details, you can see the run_analysis.R file.
+That code is well documented.
